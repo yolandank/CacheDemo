@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">CacheDemo</string>
+    <string name="downbutton">down load picture</string>
+    <string name="cachebutton">cache picture</string>
+</resources>
